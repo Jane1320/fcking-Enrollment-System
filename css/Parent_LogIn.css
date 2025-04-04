@@ -1,0 +1,22 @@
+.main {
+    background-color: #003366;
+    width: 100%;
+    height: 100vh;
+}
+
+.header { 
+    color: White;
+    font-size: 23.4px;  
+    font-family: "Balthazar";
+    height: 1em;
+    margin-top: 1.7em;
+}
+
+.form-container {
+    background-color: #CC8B20;
+    height: 27em; 
+    width: 20em;
+    padding-left: 2em;
+
+
+}
